@@ -1,4 +1,4 @@
-#The VBA of Wall Street
+### The VBA of Wall Street
 
 Used VBA scripting to analyze real stock market data from provided stock data in the years 2014, 2015, and 2016.
 
